@@ -10,11 +10,13 @@ These are the solutions to the questions in the book "Cracking The Coding Interv
 cannot use additional data structures?
 
 **Answer:** 
+---
 
 **1.2 Check Permutation:** Given two strings, write a method to decide if one is a permutation of the
 other
 
-
+**Answer:** 
+---
 
 **1.3 URLify:** Write a method to replace all spaces in a string with '%20'. You may assume that the string
 has sufficient space at the end to hold the additional characters, and that you are given the "true"
@@ -26,6 +28,8 @@ EXAMPLE
 Input: "Mr John Smith
 Output: "Mr%20John%20Smith"
 
+**Answer:** 
+---
 
 
 1.4 Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palin­
