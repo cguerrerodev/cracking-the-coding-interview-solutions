@@ -1,4 +1,4 @@
-package interviewquestions.chapter1;
+package interviewquestions.chapter1.question6;
 
 public class StringCompressor {
 	

@@ -1,4 +1,4 @@
-package interviewquestions.chapter1;
+package interviewquestions.chapter1.question3;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package interviewquestions.chapter1;
+package interviewquestions.chapter1.question2;
 
 import java.util.Hashtable;
 import java.util.Map;
