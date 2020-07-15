@@ -17,6 +17,7 @@ cannot use additional data structures?
 other
 
 **Answer:** 
+
 ---
 
 **1.3 URLify:** Write a method to replace all spaces in a string with '%20'. You may assume that the string
@@ -30,13 +31,16 @@ Input: "Mr John Smith
 Output: "Mr%20John%20Smith"
 
 **Answer:** 
+
 ---
 
 
-1.4 Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palin­
+**1.4 Palindrome Permutation:** Given a string, write a function to check if it is a permutation of a palin­
 drome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation
 is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words.
 
 EXAMPLE
 Input: Tact Coa
 Output: True (permutations: "taco cat", "atco eta", etc.)
+
+---
